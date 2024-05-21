@@ -1,2 +1,7 @@
 title: Damola Awe
-image: 
+image: Assets/images/Awe%20Damola%20(1).jpg
+show_downloads: True
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
+  
